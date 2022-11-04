@@ -22,6 +22,3 @@ I 'm a FullStack developer.
 * Git
 
 [My web](#)
-
-
-![Web 1920 – 1](https://user-images.githubusercontent.com/49120032/172675744-f048a828-5181-486f-ba4d-ca2ca42c7ed2.png)
