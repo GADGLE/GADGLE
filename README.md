@@ -8,6 +8,7 @@ I 'm a FullStack developer.
 * Phyton
 * Javascript
 * SQL
+* Java
 
 **Frameworks and Libraries**
 
