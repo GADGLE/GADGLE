@@ -1,6 +1,6 @@
 # Hi there, I 'm Josué Llancari
 
-I 'm a FullStack developer.
+I'm a FullStack developer.
 
 **Languages:**
 
